@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EgaSilvanaA_1202154306_studycase4</string>
+    <string name="startAsyncTask">Mulai AsyncTask</string>
+    <string name="listNama">List Nama Mahasiswa</string>
+    <string name="no_search_term">Please enter a search term</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+    <string name="no_results">No Results Found</string>
+</resources>
